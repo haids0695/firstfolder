@@ -1,6 +1,8 @@
-day la file txt moi tren github
+xoa thu dong nay la file txt moi tren github
 oke
 dong thu nhat
 dong thu 2
 xong sau day se push len github
-
+day la branch 1
+day la branch1
+day la branch1
